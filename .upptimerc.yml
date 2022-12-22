@@ -1,22 +1,32 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
+owner: btherapy # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
+user-agent: thera-monit
 
-sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+sites: # List of endpoints to track
+  - name: Thera-Main
+    url: https://onboarding.therapiasoftware.com/sign_up
+  - name: Thera-Client
+    url: https://ops.therapiaclient.com/client/sign_in
+  - name: Thera-Admin
+    url: https://therasoftware.net/admins/sign_in
+  - name: Thera-Billing
+    url: https://ops.therapiabilling.com/users/sign_in
+  - name: Thera-Support
+    url: https://ops.therapiasupport.com/en
+  - name: Thera-Family
+    url: https://ops.therapiafamily.com/family/sign_in
+  - name: Thera-Connect
+    url: https://ops.therapiaconnect.com/referrals/sign_in
+  - name: Thera-Telehealth
+    url: https://telehealth.therapiasoftware.com/test
+assignees: # Users to assign downtime issues (optional)
+  - btherapy
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  # cname: demo.upptime.js.org
+  baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
