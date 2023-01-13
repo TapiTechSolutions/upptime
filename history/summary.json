@@ -76,10 +76,10 @@
     "url": "https://ops.therapiasupport.com/en",
     "icon": "https://icons.duckduckgo.com/ip3/ops.therapiasupport.com.ico",
     "slug": "thera-support",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2849,
@@ -87,7 +87,9 @@
     "timeWeek": 3323,
     "timeMonth": 2849,
     "timeYear": 2849,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-13": 1
+    }
   },
   {
     "name": "Thera-Family",
