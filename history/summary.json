@@ -4,18 +4,20 @@
     "url": "https://onboarding.therapiasoftware.com/sign_up",
     "icon": "https://icons.duckduckgo.com/ip3/onboarding.therapiasoftware.com.ico",
     "slug": "thera-main",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 386,
-    "timeDay": 493,
-    "timeWeek": 322,
-    "timeMonth": 379,
-    "timeYear": 386,
-    "dailyMinutesDown": {}
+    "time": 748,
+    "timeDay": 6417,
+    "timeWeek": 1825,
+    "timeMonth": 753,
+    "timeYear": 748,
+    "dailyMinutesDown": {
+      "2023-01-23": 2
+    }
   },
   {
     "name": "Thera-Client",
@@ -77,18 +79,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/ops.therapiasupport.com.ico",
     "slug": "thera-support",
     "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
+    "uptime": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.97%",
     "time": 2537,
     "timeDay": 1721,
     "timeWeek": 1932,
     "timeMonth": 2576,
     "timeYear": 2537,
     "dailyMinutesDown": {
-      "2023-01-23": 11,
       "2023-01-13": 16
     }
   },
