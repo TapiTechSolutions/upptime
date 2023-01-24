@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/onboarding.therapiasoftware.com.ico",
     "slug": "thera-main",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 733,
-    "timeDay": 4355,
-    "timeWeek": 1647,
-    "timeMonth": 737,
-    "timeYear": 733,
-    "dailyMinutesDown": {
-      "2023-01-23": 9
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 726,
+    "timeDay": 4358,
+    "timeWeek": 1673,
+    "timeMonth": 740,
+    "timeYear": 726,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Thera-Client",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 9215,
-    "timeDay": 428,
-    "timeWeek": 4568,
-    "timeMonth": 9504,
-    "timeYear": 9215,
+    "time": 8948,
+    "timeDay": 430,
+    "timeWeek": 4597,
+    "timeMonth": 9046,
+    "timeYear": 8948,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3626,
-    "timeDay": 4759,
-    "timeWeek": 3430,
-    "timeMonth": 3739,
-    "timeYear": 3626,
+    "time": 3662,
+    "timeDay": 4805,
+    "timeWeek": 4096,
+    "timeMonth": 3741,
+    "timeYear": 3662,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 9326,
-    "timeDay": 674,
-    "timeWeek": 8382,
-    "timeMonth": 9607,
-    "timeYear": 9326,
+    "time": 9281,
+    "timeDay": 7800,
+    "timeWeek": 8251,
+    "timeMonth": 9837,
+    "timeYear": 9281,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 2537,
-    "timeDay": 1721,
-    "timeWeek": 1932,
-    "timeMonth": 2576,
-    "timeYear": 2537,
+    "time": 2560,
+    "timeDay": 1798,
+    "timeWeek": 2177,
+    "timeMonth": 2636,
+    "timeYear": 2560,
     "dailyMinutesDown": {
       "2023-01-13": 16
     }
@@ -104,11 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 11572,
-    "timeDay": 14084,
-    "timeWeek": 12161,
-    "timeMonth": 11912,
-    "timeYear": 11572,
+    "time": 11644,
+    "timeDay": 13949,
+    "timeWeek": 12201,
+    "timeMonth": 12322,
+    "timeYear": 11644,
     "dailyMinutesDown": {}
   },
   {
@@ -122,11 +120,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 12462,
-    "timeDay": 15344,
-    "timeWeek": 13031,
-    "timeMonth": 12811,
-    "timeYear": 12462,
+    "time": 12539,
+    "timeDay": 15088,
+    "timeWeek": 13121,
+    "timeMonth": 13238,
+    "timeYear": 12539,
     "dailyMinutesDown": {
       "2023-01-14": 16
     }
@@ -142,11 +140,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 184,
-    "timeDay": 399,
-    "timeWeek": 130,
-    "timeMonth": 188,
-    "timeYear": 184,
+    "time": 188,
+    "timeDay": 289,
+    "timeWeek": 161,
+    "timeMonth": 189,
+    "timeYear": 188,
     "dailyMinutesDown": {}
   }
 ]
