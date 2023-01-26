@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 719,
-    "timeDay": 481,
-    "timeWeek": 1697,
-    "timeMonth": 743,
-    "timeYear": 719,
+    "time": 711,
+    "timeDay": 421,
+    "timeWeek": 1715,
+    "timeMonth": 736,
+    "timeYear": 711,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 9129,
-    "timeDay": 15077,
-    "timeWeek": 6702,
+    "time": 8878,
+    "timeDay": 373,
+    "timeWeek": 6713,
     "timeMonth": 9065,
-    "timeYear": 9129,
+    "timeYear": 8878,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3577,
-    "timeDay": 762,
-    "timeWeek": 3548,
-    "timeMonth": 3615,
-    "timeYear": 3577,
+    "time": 3497,
+    "timeDay": 775,
+    "timeWeek": 2965,
+    "timeMonth": 3632,
+    "timeYear": 3497,
     "dailyMinutesDown": {}
   },
   {
@@ -59,19 +59,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/ops.therapiabilling.com.ico",
     "slug": "thera-billing",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "98.97%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 9445,
-    "timeDay": 12218,
-    "timeWeek": 7299,
-    "timeMonth": 10262,
-    "timeYear": 9445,
-    "dailyMinutesDown": {
-      "2023-01-25": 15
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 9852,
+    "timeDay": 12392,
+    "timeWeek": 10331,
+    "timeMonth": 10991,
+    "timeYear": 9852,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Thera-Support",
@@ -84,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 2528,
-    "timeDay": 1401,
-    "timeWeek": 1898,
-    "timeMonth": 2636,
-    "timeYear": 2528,
+    "time": 2561,
+    "timeDay": 3754,
+    "timeWeek": 2136,
+    "timeMonth": 2664,
+    "timeYear": 2561,
     "dailyMinutesDown": {
       "2023-01-13": 16
     }
@@ -104,11 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 11340,
-    "timeDay": 1278,
-    "timeWeek": 10322,
-    "timeMonth": 12327,
-    "timeYear": 11340,
+    "time": 11411,
+    "timeDay": 13834,
+    "timeWeek": 10310,
+    "timeMonth": 12332,
+    "timeYear": 11411,
     "dailyMinutesDown": {}
   },
   {
@@ -122,11 +120,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 12222,
-    "timeDay": 1443,
-    "timeWeek": 11166,
-    "timeMonth": 13236,
-    "timeYear": 12222,
+    "time": 12335,
+    "timeDay": 16271,
+    "timeWeek": 11258,
+    "timeMonth": 13283,
+    "timeYear": 12335,
     "dailyMinutesDown": {
       "2023-01-14": 16
     }
@@ -142,11 +140,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 194,
-    "timeDay": 419,
-    "timeWeek": 209,
-    "timeMonth": 190,
-    "timeYear": 194,
+    "time": 201,
+    "timeDay": 422,
+    "timeWeek": 262,
+    "timeMonth": 194,
+    "timeYear": 201,
     "dailyMinutesDown": {}
   }
 ]
