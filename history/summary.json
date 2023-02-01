@@ -22,18 +22,20 @@
     "url": "https://ops.therapiaclient.com/client/sign_in",
     "icon": "https://icons.duckduckgo.com/ip3/ops.therapiaclient.com.ico",
     "slug": "thera-client",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 8358,
     "timeDay": 485,
     "timeWeek": 4612,
     "timeMonth": 8122,
     "timeYear": 8358,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-01": 3
+    }
   },
   {
     "name": "Thera-Admin",
@@ -42,44 +44,48 @@
     "slug": "thera-admin",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 3373,
     "timeDay": 324,
     "timeWeek": 2386,
     "timeMonth": 3516,
     "timeYear": 3373,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-01": 2
+    }
   },
   {
     "name": "Thera-Billing",
     "url": "https://ops.therapiabilling.com/users/sign_in",
     "icon": "https://icons.duckduckgo.com/ip3/ops.therapiabilling.com.ico",
     "slug": "thera-billing",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 9663,
     "timeDay": 713,
-    "timeWeek": 9470,
+    "timeWeek": 10786,
     "timeMonth": 11699,
     "timeYear": 9663,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-01": 2
+    }
   },
   {
     "name": "Thera-Support",
     "url": "https://ops.therapiasupport.com/en",
     "icon": "https://icons.duckduckgo.com/ip3/ops.therapiasupport.com.ico",
     "slug": "thera-support",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
     "time": 2590,
@@ -88,6 +94,7 @@
     "timeMonth": 2695,
     "timeYear": 2590,
     "dailyMinutesDown": {
+      "2023-02-01": 1,
       "2023-01-13": 16
     }
   },
@@ -96,10 +103,10 @@
     "url": "https://ops.therapiafamily.com/family/sign_in",
     "icon": "https://icons.duckduckgo.com/ip3/ops.therapiafamily.com.ico",
     "slug": "thera-family",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 11464,
@@ -107,16 +114,18 @@
     "timeWeek": 12069,
     "timeMonth": 12770,
     "timeYear": 11464,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-01": 1
+    }
   },
   {
     "name": "Thera-Connect",
     "url": "https://ops.therapiaconnect.com/referrals/sign_in",
     "icon": "https://icons.duckduckgo.com/ip3/ops.therapiaconnect.com.ico",
     "slug": "thera-connect",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
@@ -126,6 +135,7 @@
     "timeMonth": 13817,
     "timeYear": 12451,
     "dailyMinutesDown": {
+      "2023-02-01": 0,
       "2023-01-14": 16
     }
   },
