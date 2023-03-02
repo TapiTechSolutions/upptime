@@ -1,4 +1,4 @@
-owner: tapitechsolutions # Your GitHub organization or username, where this repository lives
+ owner: btherapy # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 user-agent: thera-monit
 
@@ -39,3 +39,21 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
+notify:
+  - name: email
+    webhook: https://api.sendgrid.com/v3/mail/send
+    method: POST
+    headers:
+      Authorization: Bearer ${{secrets.sendgrid.SENDGRID_API_KEY}}
+      Content-Type: application/json
+    body:
+      personalizations:
+        - to:
+            - email: arvind@tapitechinc.com
+          subject: Upptime notification: {{checkName}} is {{checkStatus}}
+      from:
+        email: donotreply@therapiasoftware.com
+      content:
+        - type: text/plain
+          value: "{{checkName}} is {{checkStat
