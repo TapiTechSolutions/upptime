@@ -1,4 +1,4 @@
-owner: btherapy # Your GitHub organization or username, where this repository lives
+owner: tapitechsolutions # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 user-agent: thera-monit
 
@@ -39,7 +39,6 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
-
 notify:
   - name: email
     webhook: https://api.sendgrid.com/v3/mail/send
@@ -51,7 +50,7 @@ notify:
       personalizations:
         - to:
             - email: arvind@tapitechinc.com
-          subject: Upptime notification: {{checkName}} is {{checkStatus}}
+          subject: "Upptime notification: {{checkName}} is {{checkStatus}}"
       from:
         email: donotreply@therapiasoftware.com
       content:
