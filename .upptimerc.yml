@@ -16,7 +16,7 @@ sites: # List of endpoints to track
   - name: Thera-Family
     url: https://ops.therapiafamily.com/family/sign_in
   - name: Thera-Connect
-    url: https://ops.therapiaconnecta.com/referrals/sign_in
+    url: https://ops.therapiaconnect.com/referrals/sign_in
   - name: Thera-Telehealth
     url: https://telehealth.therapiasoftware.com/test
 assignees: # Users to assign downtime issues (optional)
