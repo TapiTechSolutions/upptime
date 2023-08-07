@@ -1,7 +1,7 @@
 url: https://therasoftware.net/admins/sign_in
 status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-08-07T20:39:49.407Z
+code: 500
+responseTime: 2714
+lastUpdated: 2023-08-07T23:12:28.366Z
 startTime: Fri Dec 23 2022 01:21:10 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
